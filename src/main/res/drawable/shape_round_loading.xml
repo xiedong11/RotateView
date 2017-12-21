@@ -8,6 +8,13 @@
     <stroke
         android:width="2dp"
         android:color="@color/colorAccent"
-        android:dashGap="150dp"
-        android:dashWidth="12dp" />
+        android:dashGap="60dp"
+        android:dashWidth="20dp" />
+    <!--<gradient-->
+        <!--android:angle="45"-->
+        <!--android:centerY="45"-->
+        <!--android:endColor="@color/colorPrimaryDark"-->
+        <!--android:startColor="@color/colorAccent"-->
+        <!--android:useLevel="true" />-->
+
 </shape>

@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        app:text="等待" />
+        app:during="6"
+        app:text="后跳过" />
 
 </LinearLayout>

@@ -2,5 +2,6 @@
 <resources>
     <declare-styleable name="RotateLoadingTextView">
         <attr name="text" format="string" />
+        <attr name="during" format="integer" />
     </declare-styleable>
 </resources>
